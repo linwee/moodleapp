@@ -20,3 +20,15 @@ Big Thanks
 Cross-browser Testing Platform and Open Source <3 Provided by [Sauce Labs](https://saucelabs.com)
 
 ![Sauce Labs Logo](https://user-images.githubusercontent.com/557037/43443976-d88d5a78-94a2-11e8-8915-9f06521423dd.png)
+
+Install
+-----------
+
+npm run setup
+
+Serve
+-----------
+
+npx gulp watch 
+npx ionic-app-scripts serve -b --devapp --address=0.0.0.0
+
